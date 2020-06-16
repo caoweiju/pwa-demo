@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+build/
+.sass-cache/
+.DS_Store
+.idea/
+.vscode/
+versions/
